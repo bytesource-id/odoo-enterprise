@@ -1,0 +1,3 @@
+[submodule "pegas"]
+	path = pegas
+	url = https://github.com/bytesource-id/pegas.git
