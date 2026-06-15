@@ -1,3 +1,5 @@
 [submodule "pegas"]
 	path = rbi_custom_pegas
 	url = https://github.com/bytesource-id/pegas.git
+[submodule "rbi_custom_pegas"]
+	branch = dev
